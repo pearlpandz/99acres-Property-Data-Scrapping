@@ -1,0 +1,2 @@
+Create .exe file
+pyinstaller --onefile --hidden-import='missingmodule' 99acres.py
